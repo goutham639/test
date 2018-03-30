@@ -1,2 +1,5 @@
 #ignores .bak files
 *.bak
+
+#ignores tmp folder
+tmp/*
